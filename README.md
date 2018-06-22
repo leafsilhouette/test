@@ -1,4 +1,4 @@
-# <a name="test">テスト</a>
+# テスト{:name='test'}
 
 
 [テスト](#test)
